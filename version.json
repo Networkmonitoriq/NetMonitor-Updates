@@ -1,5 +1,9 @@
 {
-  "version": "1.1.0",
-  "url": "رابط_تحميل_ملف_الـ_setup_الجديد",
-  "changelog": "تم إضافة ميزة كذا وإصلاح خطأ كذا"
+  "latest_version": "2.1.0",
+  "download_url": "https://github.com/Networkmonitoriq/NetMonitor-Updates/releases/download/v2.1.0/NetMonitor_Setup.exe",
+  "changelog": {
+    "ar": "الإصدار الأول المستقر - مراقبة الشبكة في الوقت الفعلي.",
+    "en": "Initial stable release - Real-time network monitoring."
+  },
+  "critical_update": false
 }
